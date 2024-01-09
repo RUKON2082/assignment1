@@ -83,3 +83,13 @@ margin-top: 10 px;
   padding-left: 300px;
   padding-top: 180px;
 }
+.join{
+  color: #FFF;
+font-size: 20px;
+text-transform: uppercase;
+padding-left: 30px;
+background-color: #070211;
+display: inline-block;
+padding-top: 5px;
+}
+ 
