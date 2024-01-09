@@ -1,22 +1,22 @@
 .title{
   color: #FFF;
   padding-top: 150px;
-font-family: Merriweather;
 font-size: 50px;
-font-style: normal;
 font-weight: 400;
 line-height: normal;
 text-align: center;
 
 }
-
+body{
+  font-family: Merriweather;
+  font-style: normal;
+  font-family: Inter;
+}
 .title1{
 padding-top: 0px;
   color: #FFF;
   text-align: center;
-font-family: Merriweather;
 font-size: 72px;
-font-style: normal;
 font-weight: 900;
 line-height: 95px; /* 131.944% */
 }
@@ -29,17 +29,15 @@ line-height: 95px; /* 131.944% */
 .section-discount{
   color: #F00;
 text-align: center;
-font-family: Inter;
 font-size: 88px;
-font-style: normal;
 font-weight: 700;
 margin-top: 25px;
 margin-bottom: 0px;
 }
+
 .section-holiday{
   color: #F00;
 text-align: center;
-font-family: Inter;
 font-size: 20px;
 font-weight: 400;
 margin-top: 0px;
@@ -48,7 +46,6 @@ margin-top: 0px;
 .section-categories{
   color: #070211;
 text-align: center;
-font-family: Inter;
 font-size: 38px;
 font-weight: 700;
 margin-top: 0px;
@@ -59,4 +56,30 @@ margin-top: 0px;
 height: 430px;
 margin-left: 260px;
 }
+.victor{
+  background-image: url(image/Vectorrr.png);
+  width: 1320px;
+height: 600px;
+}
+.welcome{
+  color: #FFF;
+font-size: 64px;
+font-weight: 900;
+letter-spacing: 6px;
+margin-bottom: 0px;
 
+}
+.dolor{
+  color: rgba(255, 255, 255, 0.80);f
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+margin-top: 10 px;
+
+}
+.div1{
+  width:600px;
+  height:400px;
+  padding-left: 300px;
+  padding-top: 180px;
+}
