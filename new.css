@@ -1,0 +1,47 @@
+.title{
+  color: #FFF;
+  padding-top: 150px;
+font-family: Merriweather;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+
+}
+
+.title1{
+padding-top: 0px;
+  color: #FFF;
+  text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+}
+.banner{
+  background-image: url(Banner\ Image.png);  
+  width: 1320px;
+  height: 600px;
+
+}
+.section-discount{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+margin-top: 25px;
+margin-bottom: 0px;
+}
+.section-holiday{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+margin-top: 0px;
+
+}
